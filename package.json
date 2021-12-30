@@ -1,0 +1,17 @@
+{
+    "name": "ljatext",
+    "version": "1.0.5",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "webpack --env dev && webpack --env build"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "echarts": "^5.2.2"
+    },
+    "devDependencies": {}
+
+}
